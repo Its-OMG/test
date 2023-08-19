@@ -1,5 +1,0 @@
-{{#user}}
-Name: Om Gusain
-Skills: Python, Java, Mysql, MongoDB, git, Webscraping, Machine Learning
-Email: Gusainom77@gmail.com
-{{/user}}
